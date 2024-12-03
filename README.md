@@ -36,7 +36,7 @@ The application supports two user roles:
 ## Tools Used
 - **Java Swing**: GUI development.
 - **MySQL**: Backend database for data persistence.
-- **NetBeans IDE**: Development environment.
+- **Microsoft Visual Studio Code**: Development environment.
 - **JDBC**: Database connectivity.
 
 ## Installation
