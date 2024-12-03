@@ -75,3 +75,6 @@ This project is licensed under the MIT License.
  - Dr. Pranav Sir/Dr.Sapna Maam/Dr. Sujala maam/Dr. Neena for their valuable guidance.
  - Java Swing tutorials from W3Schools.
  - MySQL integration guidance from JavaTpoint.
+
+## Location of the Source Code 
+ PHARMACYMANAGEMENT/PharmacyManagementApp.java
